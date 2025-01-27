@@ -5,7 +5,7 @@ I was born in May 2002 in Denizli. I first encountered computers and the interne
 
 
 ### [My Web Site](https://fehimkilicarslan.com)
-### Contact Me: [abdullahfehimkilicarslan@gmail.com](mailto:abdullahfehimkilicarslan@gmail.com)  
+### Contact Me: [mail@fehimkilicarslan.com](mailto:mail@fehimkilicarslan.com)  
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fehimkilicarslan&theme=dark)](https://git.io/streak-stats)
